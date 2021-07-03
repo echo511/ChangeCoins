@@ -1,0 +1,19 @@
+{
+  "name": "change-coins",
+  "description": "Change coin automat.",
+  "author": {
+    "email": "ntsiongas@gmail.com",
+    "name": "Nikolas Tsiongas",
+    "url": "https://tsiongas.eu"
+  },
+  "version": "1.0.0",
+  "license": "proprietary",
+  "private": true,
+  "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "@types/node": "^16.3.0",
+    "jest": "^27.0.6",
+    "ts-jest": "^27.0.3",
+    "typescript": "^4.3.5"
+  }
+}

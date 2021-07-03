@@ -1,0 +1,13 @@
+/.yarn/*
+!/.yarn/releases
+!/.yarn/plugins
+!/.yarn/sdks
+
+# Documentation here: https://yarnpkg.com/features/zero-installs
+#!/.yarn/cache
+/.pnp.*
+
+/dist
+/src/*.js
+
+node_modules
